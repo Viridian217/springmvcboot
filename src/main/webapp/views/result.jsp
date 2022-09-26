@@ -11,7 +11,10 @@
     <title>Title</title>
 </head>
 <body>
-    Result is : ${num3}
+<%--    Result is : ${num3}--%>
+    Result is : ${alien}
+
+    Welcome Back ${name}
 
 </body>
 </html>
